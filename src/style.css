@@ -361,7 +361,7 @@ body {
   padding: 0.4em 1em; /* Reduce el espacio interno del botón */
   border: 1px solid rgb(192, 105, 18); /* Borde del botón */
   border-radius: 10px; /* Bordes redondeados */
-  background-color: #010101; /* Fondo del botón */
+  background-color:white; /* Fondo del botón */
   cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
   height: 100px;
   width: 400px;
@@ -381,7 +381,7 @@ body {
  }
 .colorbo {
   padding-top: 18px;
-  color: aliceblue; /* Color del texto */
+  color: black; /* Color del texto */
   text-decoration: none; /* Elimina el subrayado del enlace */
   font-family: "Bebas Neue", sans-serif; /* Fuente personalizada */
   font-size: 30px; /* Ajusta el tamaño del texto */
