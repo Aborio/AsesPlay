@@ -46,7 +46,7 @@ function Home() {
   <button className="botonw">
     <a
       className="colorbo"
-      href="https://wa.link/4476ir" //colocar aca el link
+      href="https://wa.link/2s4qo0" //colocar aca el link
       target="_blank"
       rel="noopener noreferrer"
     >
